@@ -1,0 +1,5 @@
+asyncio
+python-dotenv
+livekit-agents
+openai
+silero
